@@ -5,7 +5,7 @@ Cybersecurity professional with an M.S. in Cybersecurity and Information Assuran
 ## Currently
 
 - **SOC Analyst Intern, Log(N) Pacific** - triaging security alerts in Microsoft Sentinel and Defender, automating SIEM detections with Python and KQL, and applying NIST CSF incident response playbooks.
-- **Data Center Technician, Fluidstack** - maintaining uptime across AI/ML compute clusters (Google TPU v7 "Ironwood" nodes) and critical rack/network infrastructure.
+- **Data Center Technician, Wesco** - maintaining uptime across AI/ML compute clusters (Google TPU v7 "Ironwood" nodes) and critical rack/network infrastructure.
 
 ## Academic Security Research
 
