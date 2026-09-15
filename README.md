@@ -5,7 +5,7 @@ Cybersecurity professional with an M.S. in Cybersecurity and Information Assuran
 ## Currently
 
 - **SOC Analyst Intern, Log(N) Pacific** (Mar 2026 - Present, Remote) - triaging security alerts in Microsoft Sentinel and Defender, automating SIEM detections with Python and KQL, and applying NIST CSF incident response playbooks.
-- **Data Center Technician, Wesco** (Jul 2026 - Present, Barker, NY) - began with AI/ML compute tray lifecycle work (chassis swaps, blind-mate backplane alignment, BMC/power/LED post-install checks), servicing direct-to-chip liquid cooling loops, and troubleshooting optical fabric physical-layer issues (return loss, fiber cleaning, VFL testing) under strict TPVR protocol; transitioned into Fluidstack Logistics support, managing warehouse inventory (~2,000 SKUs) in DCIM, raising inventory accuracy from the low 70% range to 97%, and supporting onsite RMA/data-hall stocking for deployment teams of up to 50 technicians per shift.
+- **Data Center Technician, Wesco** (Jul 2026 - Present, Barker, NY) - began with AI/ML compute tray lifecycle work (chassis swaps, blind-mate backplane alignment, BMC/power/LED post-install checks), servicing direct-to-chip liquid cooling loops, and troubleshooting optical fabric physical-layer issues (return loss, fiber cleaning, VFL testing) under strict TPVR protocol; transitioned into Logistics support, managing warehouse inventory (~2,000 SKUs) in DCIM, raising inventory accuracy from the low 70% range to 97%, and supporting onsite RMA/data-hall stocking for deployment teams of up to 50 technicians per shift.
 
 ## Experience
 
