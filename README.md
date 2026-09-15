@@ -9,7 +9,7 @@ Cybersecurity professional with an M.S. in Cybersecurity and Information Assuran
 
 ## Experience
 
-- **Data Center Technician, Symplore Inc** (May 2024 - Jul 2026, client: Verizon, Canton, MI) - managed end-to-end RMA lifecycle in ServiceNow for switches, rPDUs, and server components with zero inventory loss; executed monthly cycle counts across 400+ server/storage racks maintaining 98% asset accuracy; performed hardware installs, moves, and troubleshooting (HPE, Dell) including fiber optic/copper transceiver diagnostics; coordinated on-site vendor contractors under change management protocols.
+- **Data Center Technician, Symplore Inc** (May 2024 - Jul 2026, Canton, MI) - managed end-to-end RMA lifecycle in ServiceNow for switches, rPDUs, and server components with zero inventory loss; executed monthly cycle counts across 400+ server/storage racks maintaining 98% asset accuracy; performed hardware installs, moves, and troubleshooting (HPE, Dell) including fiber optic/copper transceiver diagnostics; coordinated on-site vendor contractors under change management protocols.
 - **Junior Network Technician, ACS Solutions** (Jun 2021 - Sep 2022, Hyderabad, India) - installed, configured, and maintained LAN/WAN infrastructure for an 80-90 person office; managed switch/router/firewall/VPN infrastructure; performed structured cabling and patch panel work; provided end-user technical support and documented network topology.
 
 ## Academic Security Research
