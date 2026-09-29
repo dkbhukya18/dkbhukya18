@@ -2,7 +2,7 @@
 
 **Data Center Technician | AI/ML Infrastructure & Fiber Optics | SOC Analyst Intern | M.S. Cybersecurity (UMich) | CompTIA Security+**
 
-I work where physical infrastructure and cybersecurity meet. On the data center floor, I keep large-scale AI/ML compute infrastructure running in a high-density production environment. In the SOC, I hunt threats and respond to incidents with Microsoft Sentinel, KQL, and Defender for Endpoint.
+I work where physical infrastructure and cybersecurity meet. On the data center floor, I keep large-scale AI/ML compute infrastructure running in a high-density production environment. In the SOC, I hunt threats and respond to incidents with Microsoft Sentinel, KQL, and Defender for Endpoint. In graduate research, I attacked and defended ML models, from adversarial patches on traffic-sign classifiers to membership inference on banking data, and I'm building toward AI security.
 
 ## Currently
 
@@ -27,6 +27,7 @@ I work where physical infrastructure and cybersecurity meet. On the data center 
 - **Data Center Operations:** hardware break-fix, AI/ML compute infrastructure, rack- and pod-level hardware, PSUs, battery systems, RMU connections, direct-to-chip liquid cooling
 - **Fiber & Networking:** fiber optics, OTDR, VFL, optical transceivers (QSFP, OSFP, CDFP), DAC and PCIe cabling, ToR and spine switches, OCS, structured cabling, Layer 1/2 troubleshooting
 - **Security Operations:** Microsoft Sentinel (SIEM), KQL, Microsoft Defender for Endpoint (EDR), threat hunting, incident response, MITRE ATT&CK, NIST 800-61
+- **AI/ML Security:** adversarial examples and adversarial training, membership inference attacks and defenses, robustness evaluation; PyTorch, scikit-learn, IBM Adversarial Robustness Toolbox
 - **Vulnerability Management:** Tenable, DISA STIG, CIS Benchmarks, PowerShell remediation
 - **Platforms & Tools:** Microsoft Azure, Windows, Linux, Python, GitHub, Jira
 
