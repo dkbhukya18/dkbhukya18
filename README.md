@@ -13,14 +13,14 @@ I work where physical infrastructure and cybersecurity meet. On the data center 
 
 | Repository | What it is |
 |---|---|
+| [adversarial-patch-traffic-sign-recognition](https://github.com/dkbhukya18/adversarial-patch-traffic-sign-recognition) | Targeted adversarial patch attacks on CNN and ResNet18 traffic-sign classifiers (GTSRB, LISA). Corrected and re-ran 16 models: adversarial training raised GTSRB accuracy under attack from 44% to 86%, and made LISA CNNs less robust |
+| [miashield-membership-inference-tabular](https://github.com/dkbhukya18/miashield-membership-inference-tabular) | MIAShield exact and approximate exclusion defenses against membership inference on banking data. Found and fixed an evaluation flaw; the corrected run cut attack AUC from 0.60 to 0.50 on an overfit model |
 | [log-N-pacific](https://github.com/dkbhukya18/log-N-pacific) | PowerShell scripts that remediate Windows 11 DISA STIG findings, built in the LOG(N) Pacific Cyber Range |
-| [adversarial-attack-road-sign-recognition](https://github.com/dkbhukya18/adversarial-attack-road-sign-recognition) | RP2 adversarial attack on CNN and ResNet18 traffic-sign classifiers; defenses cut attack success from 21.4% to 1.9% while keeping accuracy above 96% |
-| [mia-defense-bank-marketing](https://github.com/dkbhukya18/mia-defense-bank-marketing) | Membership inference attack defenses (SHA1 and minHash exclusion) that reduced attacker accuracy to ~0.50 while preserving 86.9% model accuracy |
 
 ## More Graduate Research
 
-- **Automotive App SSL/TLS Vulnerability Static Analysis:** decompiled and audited the network security configurations of 20 major automotive Android apps, identifying missing certificate pinning and cleartext-traffic misconfigurations.
-- **Automated Trending-Topic Malware Detection Pipeline:** Python pipeline integrating Google, Bing, and Twitter APIs with VirusTotal to screen roughly 9,000 trending-topic results for malicious content.
+- [automotive-android-tls-audit](https://github.com/dkbhukya18/automotive-android-tls-audit): static TLS audit of 20 automotive Android apps. 6/20 allow cleartext HTTP app-wide and only 1/20 pins certificates.
+- [trending-topics-malicious-url-measurement](https://github.com/dkbhukya18/trending-topics-malicious-url-measurement): Python + VirusTotal pipeline measuring malicious links in about 9,000 trending-topic search results.
 
 ## Skills
 
