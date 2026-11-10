@@ -41,10 +41,10 @@ Graduate coursework at the University of Michigan-Dearborn.
 
 | Area | Tools and topics |
 |---|---|
-| **Security operations** | Microsoft Sentinel (SIEM), KQL, Microsoft Defender for Endpoint (EDR), alert triage, phishing analysis, threat hunting, incident response, MITRE ATT&CK, NIST 800-61 |
+| **Security operations** | Microsoft Sentinel (SIEM), KQL, Microsoft Defender for Endpoint (EDR), alert triage, threat hunting, incident response, MITRE ATT&CK, NIST 800-61 |
 | **Vulnerability management** | Tenable, DISA STIG, CIS Benchmarks, PowerShell remediation |
 | **AI/ML security** | Adversarial examples and adversarial training, membership inference attacks and defenses, robustness evaluation; PyTorch, scikit-learn, IBM Adversarial Robustness Toolbox |
-| **Identity and systems** | Active Directory / Entra ID, Microsoft 365, MFA, Windows, macOS, Linux, ITSM ticketing and SLAs |
+| **Systems and ticketing** | Windows, Linux, Jira Service Management, Confluence, ticketing and SLAs |
 | **Data center and networking** | BMS monitoring, UPS and PDU readings, preventative maintenance, DCIM; fiber optics, OTDR, VFL, optical transceivers (QSFP, OSFP, CDFP), DAC and PCIe cabling, ToR and spine switches, OCS, Layer 1/2 troubleshooting; Dell PowerEdge and HPE ProLiant servers, Cat6A, Fluke cable testing, Cisco Catalyst/ISR, VLANs, 802.1X, ACLs, Wireshark |
 | **Platforms and scripting** | Microsoft Azure, Python, PowerShell, KQL, SQL, GitHub, Jira |
 
