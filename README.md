@@ -13,7 +13,7 @@
 
 ## About
 
-I work where cybersecurity and physical infrastructure meet. In a live Azure cyber range, I triage alerts, hunt threats, and document incidents with Microsoft Sentinel, KQL, and Defender for Endpoint, mapping findings to MITRE ATT&CK and writing them up to NIST 800-61. My day job is on the data center floor at CBRE, keeping critical infrastructure running, and before that I supported AI/ML compute at Wesco. That gives me first-hand knowledge of the hardware, network, and facility layers that security teams protect, and I'm working toward a full-time security operations role. In graduate research, I attacked and defended ML models, and I'm building toward AI security.
+I work where cybersecurity and physical infrastructure meet. In a live Azure cyber range, I triage alerts, hunt threats, and document incidents with Microsoft Sentinel, KQL, and Defender for Endpoint, mapping findings to MITRE ATT&CK and writing them up to NIST 800-61. On the infrastructure side, I work as a Data Center Technician at CBRE, maintaining critical mechanical and electrical systems and responding to BMS alarms, and before that I troubleshot Layer 1/2 issues on AI/ML compute infrastructure at Wesco. That gives me first-hand knowledge of the hardware, network, and facility layers that security teams protect, and I'm working toward a full-time security operations role. In graduate research, I attacked and defended ML models, and I'm building toward AI security.
 
 ## Experience
 
