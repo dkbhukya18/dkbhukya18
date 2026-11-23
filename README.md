@@ -13,7 +13,7 @@
 
 ## About
 
-I work where cybersecurity and physical infrastructure meet. In a live Azure cyber range, I triage alerts, hunt threats, and document incidents with Microsoft Sentinel, KQL, and Defender for Endpoint, mapping findings to MITRE ATT&CK and writing them up to NIST 800-61. My day job is on the data center floor at CBRE, keeping critical infrastructure running, and before that I supported AI/ML compute at Wesco and hardened rack networks at Symplore. That gives me first-hand knowledge of the hardware, network, and facility layers that security teams protect, and I'm working toward a full-time security operations role. In graduate research, I attacked and defended ML models, and I'm building toward AI security.
+I work where cybersecurity and physical infrastructure meet. In a live Azure cyber range, I triage alerts, hunt threats, and document incidents with Microsoft Sentinel, KQL, and Defender for Endpoint, mapping findings to MITRE ATT&CK and writing them up to NIST 800-61. My day job is on the data center floor at CBRE, keeping critical infrastructure running, and before that I supported AI/ML compute at Wesco. That gives me first-hand knowledge of the hardware, network, and facility layers that security teams protect, and I'm working toward a full-time security operations role. In graduate research, I attacked and defended ML models, and I'm building toward AI security.
 
 ## Experience
 
@@ -22,8 +22,6 @@ I work where cybersecurity and physical infrastructure meet. In a live Azure cyb
 | **SOC Analyst** (self-paced, hands-on program) | LOG(N) Pacific Cyber Range · Remote | Mar 2026 – Present | Threat hunting and incident response in a live Azure cyber range with Microsoft Sentinel, Defender for Endpoint, and KQL. Findings mapped to MITRE ATT&CK and documented to NIST 800-61. Tenable findings remediated with PowerShell (DISA STIG, CIS). |
 | **Data Center Technician** | CBRE · Barker, NY | Oct 2026 – Present | BMS alarm response and emergency repairs, daily mechanical and electrical inspections, UPS, PDU, and utility meter readings, and third-party vendor coordination against site procedures and Master Service Agreement terms. |
 | **Data Center Technician**, then **Logistics Associate** | Wesco · Barker, NY | Jul 2026 – Sep 2026 | Layer 1/2 troubleshooting for AI/ML compute (fiber paths, optical transceivers, ToR and spine switches, OCS) with VFL and OTDR fault isolation. Raised DCIM inventory accuracy from about 70% to 97% across about 2,000 transactions. |
-| **Data Center Technician** | Symplore · Canton, MI | May 2024 – Jul 2026 | Commissioned and serviced 200+ Dell PowerEdge and HPE ProLiant servers. Terminated and audited 1,000+ single-mode/multi-mode fiber and Cat6A cables with Fluke testers (99.8% initial signal pass rate). Reconfigured 50+ VLAN assignments and switch ports for rack isolation. Resolved 300+ tickets in Jira Service Desk. |
-| **Junior Network Tech** | Luminaire Technologies · Hyderabad, India | Mar 2020 – Aug 2021 | Configured and deployed 45+ Cisco Catalyst switches and ISR routers with 802.1X, MAC filtering, and ACL controls for 500+ users. Troubleshot 100+ Layer 1-3 tickets (connectivity, DNS, DHCP) at an 88% first-contact resolution rate. Traffic analysis with Wireshark and SolarWinds. |
 
 ## Security Projects and Research
 
@@ -45,7 +43,7 @@ Graduate coursework at the University of Michigan-Dearborn.
 | **Vulnerability management** | Tenable, DISA STIG, CIS Benchmarks, PowerShell remediation |
 | **AI/ML security** | Adversarial examples and adversarial training, membership inference attacks and defenses, robustness evaluation; PyTorch, scikit-learn, IBM Adversarial Robustness Toolbox |
 | **Systems and ticketing** | Windows, Linux, Jira Service Management, Confluence, ticketing and SLAs |
-| **Data center and networking** | BMS monitoring, UPS and PDU readings, preventative maintenance, DCIM; fiber optics, OTDR, VFL, optical transceivers (QSFP, OSFP, CDFP), DAC and PCIe cabling, ToR and spine switches, OCS, Layer 1/2 troubleshooting; Dell PowerEdge and HPE ProLiant servers, Cat6A, Fluke cable testing, Cisco Catalyst/ISR, VLANs, 802.1X, ACLs, Wireshark |
+| **Data center and networking** | BMS monitoring, UPS and PDU readings, preventative maintenance, DCIM; fiber optics, OTDR, VFL, optical transceivers (QSFP, OSFP, CDFP), DAC and PCIe cabling, ToR and spine switches, OCS, Layer 1/2 troubleshooting |
 | **Platforms and scripting** | Microsoft Azure, Python, PowerShell, KQL, SQL, GitHub, Jira |
 
 ## Certifications and Education
